@@ -1,0 +1,57 @@
+.header {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    left: 0px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+
+.header p {
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    padding-left: 30px;
+    padding-top: 2px;
+}
+
+.page-content-1 {
+    margin-top: 100px;
+    width: 95%;
+    height: 90%;
+    margin-left: 22px;
+}
+
+.button {
+    margin-top: 30px;
+    width: 125px;
+    height: 30px;
+    padding: 3px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.page-content-2 {
+    width: 95%;
+    height: 90%;
+    margin-left: 22px;
+    margin-top: 60px;
+}
+
+.page-content-2 img {
+    width: 70%;
+    margin-top: 40px;
+}
+
+.page-content-3 {
+    margin-left: 22px;
+}
+
+.page-content-3 h1 {
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
